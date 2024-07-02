@@ -1,0 +1,19 @@
+.blog{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 5px 5px 20px yellow;
+}
+.blog:hover{
+    background-color:crimson;
+}
+p{
+    text-align: justify;
+}
+
+span{
+    color: yellow;
+}
