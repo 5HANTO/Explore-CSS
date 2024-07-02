@@ -1,0 +1,68 @@
+
+.header{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4TqgnMR3OHTwqVNiXk7DaqaeMtPrU9aKQAA&s);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header h1{
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+
+
+
+
+
+img{
+    width: 100%;
+}
+.blog{
+    background-color:crimson;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color: yellow;
+}
+p{
+    font-size: 10px;
+    text-align: justify;
+}
+
+form{
+    background-color: crimson;
+    padding: 20px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+}
+form p{
+    font-size: 15px;
+    font-weight: 800;
+}
+
+input{
+    background-color: turquoise;
+    border:2px solid turquoise;
+    margin: 2px;
+    color: black
+}
+
+.btn{
+    background-color: yellow;
+    border: 2px solid yellow ;
+}
